@@ -15,7 +15,7 @@
 </div>
   <br>
     <div align="center">
-      <img  height="300" width="420" align="center" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+      <img  height="30%" width="40% align="center" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
       </div>
 <div style="display: inline_block" align="center"> <br>
   
