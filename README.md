@@ -2,7 +2,7 @@
 <div style="display: flex" col="2">
   <p>I'm a Front-end Developer beginning my carreer in this area and the purpose that i choose the part of Front-end is because i was looking for something that mixes design with programming and i found it!</p>
   <br>
-  <i>Always learning🏹...</i> but currently i'm learning JavaScript and in next future intend learn reactJS for my stack.
+  <i>Always learning🏹...</i> but currently i'm learning JavaScript and in next future intend to learn reactJS for my stack.
     </p>
 
 </div>
