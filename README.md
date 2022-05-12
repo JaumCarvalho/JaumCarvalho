@@ -1,12 +1,7 @@
 <h2 align="center">Hello, world! I'm João Carvalho</h2>
 <div style="display: flex" col="2">
-  <p>I'm a Front-end Developer beginning my carreer in this area and the purpose that i choose the part of Front-end is beacause i was looking for something that mixes design with programming and i found it!</p>
-  <p>I like: <br>
-   - Games ♟️<br>
-  - Music 🎧<br>
-  - Programming 👨‍💻<br>
-  - Design 🎨<br>
-  - And other things... 🏋️‍♂️🏐🏀<br> <br>
+  <p>I'm a Front-end Developer beginning my carreer in this area and the purpose that i choose the part of Front-end is because i was looking for something that mixes design with programming and i found it!</p>
+  <br>
   <i>Always learning🏹...</i> but currently i'm learning JavaScript and in next future intend learn reactJS for my stack.
     </p>
 
